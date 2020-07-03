@@ -1,0 +1,29 @@
+main {
+  width: 500px;
+  //   min-width: 500px;
+  //   max-width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  border: 2px solid rgb(240, 227, 227);
+  margin-bottom: 50px;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 10px;
+  padding: 20px 0;
+}
+p {
+  color: white;
+  font-size: 18px;
+  text-align: center;
+}
+img {
+  height: 400px;
+}
+ul {
+  padding: 0;
+}

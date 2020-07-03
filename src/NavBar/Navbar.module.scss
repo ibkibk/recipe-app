@@ -1,0 +1,17 @@
+.Nav {
+  height: 100px;
+  width: 100%;
+}
+.links {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  width: auto;
+  list-style: none;
+}
+.home,
+.add {
+  color: white;
+  font-size: 35px;
+  padding: 0 30px;
+}
